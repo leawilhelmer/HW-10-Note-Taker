@@ -3,7 +3,7 @@ const path = require("path");
 const fs = require("fs");
 
 const app = express();
-const PORT = process.env.PORT || 9001;
+const PORT = process.env.PORT || 5000;
 
 
 let notesData = [];
@@ -79,5 +79,5 @@ app.get("/api/notes", function(req, res) {
 });
 
 app.listen(PORT, function() {
-  console.log("SERVER IS LISTENING: " + PORT);
+  console.log(("Server listening on: http://localhost:" + PORT));
 });
