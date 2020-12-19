@@ -16,7 +16,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Videoguide
 
-https://drive.google.com/file/d/1Stsd52ARvt9gTiHIvjI3TCqx5v7ySzXo/view
+https://drive.google.com/file/d/1RqJRvdEcLbczzWIjKTAYF2yS7SzWymZi/view
 
 ## Screenshots
 
